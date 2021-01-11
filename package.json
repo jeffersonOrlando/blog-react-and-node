@@ -1,0 +1,24 @@
+{
+  "name": "weface",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffersonOrlando/blog-react-and-node.git"
+  },
+  "author": "jeffersonmorais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffersonOrlando/blog-react-and-node/issues"
+  },
+  "homepage": "https://github.com/jeffersonOrlando/blog-react-and-node#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
